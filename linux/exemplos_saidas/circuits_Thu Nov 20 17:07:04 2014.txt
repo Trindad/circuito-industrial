@@ -1,0 +1,92 @@
+------------Circuito 1------------
+
+ A	C	
+ A	F	
+ F	E	
+ B	D	
+ C	B	
+custo total = 16
+
+------------Circuito 2------------
+
+ A	F	
+ A	E	
+ E	B	
+ F	C	
+ F	D	
+custo total = 21
+
+------------Circuito 3------------
+
+ A	F	
+ D	B	
+ A	E	
+ A	C	
+ F	D	
+custo total = 23
+
+------------Circuito 4------------
+
+ A	C	
+ F	E	
+ C	D	
+ A	F	
+ A	B	
+custo total = 24
+
+------------Circuito 5------------
+
+ A	C	
+ F	B	
+ A	E	
+ B	D	
+ C	F	
+custo total = 27
+
+------------Circuito 6------------
+
+ A	B	
+ E	C	
+ A	F	
+ B	E	
+ C	D	
+custo total = 29
+
+------------Circuito 7------------
+
+ A	F	
+ A	B	
+ A	E	
+ D	C	
+ F	D	
+custo total = 32
+
+------------Circuito 8------------
+
+ A	F	
+ D	B	
+ A	E	
+ A	C	
+ F	D	
+custo total = 32
+
+------------Circuito 9------------
+
+ A	F	
+ E	A	
+ A	B	
+ E	C	
+ F	D	
+custo total = 34
+
+------------Circuito 10------------
+
+ A	B	
+ B	F	
+ B	D	
+ E	C	
+ D	E	
+custo total = 50
+
+----------------------------------
+
